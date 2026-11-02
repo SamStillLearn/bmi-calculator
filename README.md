@@ -56,6 +56,6 @@ Buka `bmi-view.fxml` dengan Scene Builder (klik kanan file > Open in Scene Build
 
 ### GUI (JavaFX)
 
-![Tampilan GUI](screenshots/gui1.png)
+![Tampilan GUI](screenshots/gui1.jpeg)
 
-![Tampilan GUI OUTPUT](screenshots/cli2.png)
+![Tampilan GUI OUTPUT](screenshots/gui2.jpeg)
