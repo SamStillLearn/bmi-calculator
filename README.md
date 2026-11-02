@@ -40,13 +40,13 @@ mvn compile
 java -cp target/classes com.bmi.cli.MainCLI
 ```
 
-(atau klik Run di atas method `main` pada `MainCLI.java` di VS Code)
-
 GUI:
 
 ```
 mvn javafx:run
 ```
+
+(Jalankan pada terminal atau terminal IDE)
 
 ## Cara Mengedit Tampilan
 
