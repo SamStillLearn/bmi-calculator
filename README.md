@@ -51,3 +51,11 @@ mvn javafx:run
 ## Cara Mengedit Tampilan
 
 Buka `bmi-view.fxml` dengan Scene Builder (klik kanan file > Open in Scene Builder).
+
+## Tampilan Aplikasi GUI
+
+### GUI (JavaFX)
+
+![Tampilan GUI](screenshots/gui1.png)
+
+![Tampilan GUI OUTPUT](screenshots/cli2.png)
